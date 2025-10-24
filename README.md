@@ -11,7 +11,7 @@ Most labs use **default switch configurations** (no VLAN or STP setup required).
 |------------|-------------|
 | **Subnetting and IP Addressing Lab.pcxt** | Practice dividing a /24 network into subnets using CIDR notation|
 | **CIDR Troubleshooting Lab — 192.168.0.0/24.pcxt** | Diagnose and fix IP or gateway issues base on the CIDR table |
-| ** Basic IP Addressing and Connectivity Lab.pcxt** |  Configure static routes between networks for inter-LAN communication |
+| **Basic IP Addressing and Connectivity Lab.pcxt** |  Configure static routes between networks for inter-LAN communication |
 | **Static Routing Troubleshooting Lab.pcxt** | Diagnose and fix IP or gateway issues across subnetted LANs |
 
 ##  Objectives
